@@ -1,1 +1,1 @@
-# hexlet-js
+JS on Hexlet
