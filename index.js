@@ -1,9 +1,9 @@
-import _ from "lodash";
+import _ from 'lodash';
 
 _.intersection([2, 1], [2, 3]);
 
-_.capitalize("hello");
+_.capitalize('hello');
 
-console.log(_.last(["one", "two"]));
+console.log(_.last(['one', 'two']));
 
-console.log("Hello, Hexlet!");
+console.log('Hello, Hexlet!');
